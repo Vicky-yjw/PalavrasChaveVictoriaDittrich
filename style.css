@@ -3,13 +3,14 @@
 
 :root {
     --cor-destaque: #9900ff;
-    --cor-gradiente-preto: linear-gradient(113deg, #000 0%, #1E2021 44.96%, #1E2022 100%);
-}
+    background: url(img/genshin-impact-chromebook-wallpaper.jpg);
+    background-size: cover;
+    background-position: center;}
 
 * {
     margin: 0;
     padding: 0;
-    font-family: Montserrat;
+    font-family: open-sans, sans-serif;
 }
 
 body {
